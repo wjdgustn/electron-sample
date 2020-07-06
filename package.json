@@ -1,0 +1,23 @@
+{
+  "name": "electron-sample",
+  "version": "0.0.1",
+  "description": "Node.js electron test repository.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjdgustn/electron-sample.git"
+  },
+  "author": "Hyonsu",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/wjdgustn/electron-sample/issues"
+  },
+  "homepage": "https://github.com/wjdgustn/electron-sample#readme",
+  "dependencies": {
+    "electron": "^9.0.5"
+  }
+}
